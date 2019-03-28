@@ -1,0 +1,29 @@
+[
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "barani"
+  }, 
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+  },
+
+{
+    "ParameterKey": "DBUser",
+    "ParameterValue": "user123"
+  },
+
+{
+    "ParameterKey": "DBPassword",
+    "ParameterValue": "RERECstuser123"
+  },
+{
+    "ParameterKey": "DBRootPassword",
+    "ParameterValue": "riootredfgf123"
+  },
+
+{
+    "ParameterKey": "SSHLocation",
+    "ParameterValue": "0.0.0.0/0"
+  }
+]
